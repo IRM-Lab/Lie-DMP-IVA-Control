@@ -5,7 +5,9 @@ This repository provides the multimedia materials and figures for our study on r
 ## 🎥 Experimental Video
 
 *(如果你直接将视频拖拽到了网页端，请将这段文字替换为生成的链接；如果在 assets 文件夹中，使用相对路径即可)*
-[Watch Experimental Demonstration](experiment.mp4)
+## 🎥 Experimental Video
+
+<video src="assets/你的视频文件名.mp4" controls width="100%"></video>
 
 ---
 
