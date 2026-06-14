@@ -1,9 +1,13 @@
+
+https://github.com/user-attachments/assets/39e5d946-ef19-4ff0-8be4-2c55bc8c3245
+
 # Robotic Assembly Skill Learning
 
 This repository provides the multimedia materials and figures for our study on robotic assembly, utilizing Lie-theory-based Dynamic Movement Primitives (Lie-DMPs) and an Improved Variable Admittance (IVA) controller.
 
 ## 🎥 Experimental Video
 
+https://github.com/user-attachments/assets/f3174ea6-56b6-4abb-82e7-29b79d168562
 <video src="experiment.mp4" controls width="100%"></video>
 
 ---
